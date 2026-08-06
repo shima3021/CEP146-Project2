@@ -61,34 +61,34 @@ Please be honest and base your evaluation only on what you can actually see in t
 
 # AI Project Evaluation
 
-## Suggested Grade: 40/100
+## Suggested Grade: 51/100
 
-This is a provisional evaluation based on the submitted [GitHub repository](https://github.com/rafiariana/CEP146-Project2/tree/main) and [YouTube video](https://youtu.be/kdiZVE57TF0).
+For this evaluation, the AI responses and reflection are considered incomplete. Only the AI-grading prompt is considered ready.
 
 ## Grading Breakdown
 
 | Category | Score | Explanation |
 |---|---:|---|
-| Content & Presentation | 19/25 | AI coding assistants are a recent and relevant topic. The 2:55 video is organized, explains the main benefits and risks clearly, and ends with a strong discussion question. However, the presentation is fairly general, has limited supporting evidence, and I could not confirm that all three members participated. |
-| GitHub Collaboration | 11/25 | The repository includes separate research files and branches for group members. However, the submitted repository is a fork that is behind the newer original repository. Issues and Discussions are disabled on the submitted fork. The README also has a placeholder reference section, does not include the video link, and is incorrectly wrapped in a Markdown code block. I could not find a meaningful content change from every group member. |
-| AI Evaluation Setup | 10/25 | The prompt given to the AI is thoughtful, specific, and includes the complete grading rubric. However, the repository does not currently show evidence of two AI models being used or contain the saved prompts and responses. |
-| Reflection Quality | 0/25 | I could not find a reflection that summarizes and compares the two AI evaluations, gives the group’s opinion about the grades, or explains how AI helped or did not help with the research. |
-| **Total** | **40/100** | The research and video are reasonably strong, but the AI evaluation and reflection sections are incomplete. The submitted GitHub link also does not show the newest group work. |
+| Content & Presentation | 22/25 | AI coding assistants are a current and relevant topic. The 2:55 video is organized and clearly explains what AI coding assistants are, how they have evolved, their benefits, challenges, and industry impact. It also ends with a strong discussion question. All three members participated through the approved division of responsibilities: two members handled the research and video presentation, while the third member handled the AI prompt and reflection portion. No points were deducted because the third member did not speak. A few points were deducted because some claims were general and had limited supporting evidence or citations. |
+| GitHub Collaboration | 19/25 | The repository includes organized research files, individual branches, Issues, pull requests, and visible contributions from all three members. The group also used the Discussion board for brainstorming. However, the README is missing student numbers, key findings, AI evaluation links, and complete sources. Discussion activity is limited, and the repository contains multiple presentation files without clearly identifying which one is final. |
+| AI Evaluation Setup | 10/25 | The AI-grading prompt is thoughtful, detailed, and includes the complete rubric. However, at this stage, the project does not yet show completed evaluations from two different AI models or the full saved responses from both models. |
+| Reflection Quality | 0/25 | The reflection is not completed at this stage. Therefore, there is no summary or comparison of the two AI results, opinion about the suggested grades, or discussion of how AI helped or did not help with the research. |
+| **Total** | **51/100** | **The research, presentation, and GitHub collaboration are strong, but the AI evaluations and reflection still need to be completed.** |
 
 ## Three Strengths
 
-1. The project focuses on a current and useful artificial intelligence topic.
-2. The video follows a clear order and discusses both the benefits and risks of AI coding assistants.
-3. The final discussion question is thoughtful and could lead to a good class conversation.
+1. The project focuses on a current and important topic in software development.
+2. The video is concise, organized, and discusses both the advantages and risks of AI coding assistants.
+3. The repository demonstrates collaboration through commits, branches, Issues, pull requests, and an approved division of responsibilities.
 
 ## Three Areas for Improvement
 
-1. Submit the newer group repository or update the fork so the latest files and collaboration are visible.
-2. Add an `AI-Evaluations` folder containing the full prompts and responses from both AI models.
-3. Add a complete reflection that compares both AI evaluations and includes the group’s honest opinion about the results.
+1. Submit the completed prompt and response from two different AI models.
+2. Complete the reflection by summarizing and comparing both AI grades and providing an honest opinion about the results.
+3. Update the README with student numbers, key findings, AI evaluation links, complete references, and the name of the final presentation file.
 
 ## Additional Feedback
 
-The most important improvement is making sure the correct and fully updated GitHub repository is submitted. The README should also be fixed by removing the surrounding Markdown code block, adding the YouTube video link, and listing the actual sources used.
+The lower grade is mainly caused by the AI evaluation and reflection sections being incomplete at this stage. It does not indicate that the research or presentation is poor.
 
-Each group member should have a meaningful commit. Adding the AI prompts, responses, and reflection would help demonstrate participation while also improving the AI Evaluation Setup and Reflection scores.
+The group’s division of responsibilities is reasonable and demonstrates participation from all three members. Once both AI responses and the reflection are completed, these two categories could increase significantly and bring the overall grade much closer to the 90% range.
